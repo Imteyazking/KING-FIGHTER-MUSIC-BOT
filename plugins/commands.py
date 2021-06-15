@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram import Client, filters
 
 
-REPO = "**🗂️ Repo :** [VcBot Repo](https://github.com/The-HellBot/VcBot)\n\n🌟 **Github :** [The-HellBot](https://github.com/The-HellBot) \n\n**📍   [Group](https://t.me/hellbot_chat)  &  [Channel](https://t.me/its_hellbot)   📍**"
+REPO = "**🗂️ Repo :** [KING FIGHTER MUSIC BOT Repo](https://github.com/The-HellBot/VcBot)\n\n🌟 **Github :** [The-HellBot](https://github.com/The-HellBot) \n\n**📍   [Group](https://t.me/hellbot_chat)  &  [Channel](https://t.me/its_hellbot)   📍**"
 HOME_TEXT = "💖 **Hi [{}](tg://user?id={})**,\n\nI'm **Hêll Music Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop!\n\n**😉 Happy Streaming 😉**"
 HELP = """**Join @The_HellBot and @Its_Fuckin_Hell to get more help!!
 
@@ -11,7 +11,7 @@ HELP = """**Join @The_HellBot and @Its_Fuckin_Hell to get more help!!
 \u2022 `/help`  -  Shows help for commands.
 \u2022 `/playlist`  -  Shows the playlist.
 \u2022 `/current`  -  Shows playing time of current track.
-\u2022 `/song song name`  -  Download the song.
+\u2022 `/song song name`  -  Download the song
 
 🏷️ **Admin Commands**:
 \u2022 `/skip x`  -  Skip current or x song. [ x >= 2 ]
